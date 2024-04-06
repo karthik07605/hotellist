@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(hotelimage/hotel.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.head
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border: solid;
+    text-align: center;
+    background-color: blueviolet;
+}
